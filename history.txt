@@ -1,1 +1,2 @@
-Texto plano de git
+Texto llano de git.
+Segunda modificacion
